@@ -27,13 +27,26 @@ A simple React Native app built with **Expo** and **TypeScript** that displays r
 ```bash
 git clone https://github.com/username/weather-app.git
 cd weather-app
+```
 ### 2. Install dependencies
 ```bash
 npm install
+````
 ### 3. Add your OpenWeatherMap API Key
-App.js
+```App.js
 const API_KEY = 'YOUR_API_KEY_HERE'; <----replace this line with your own key
+```
 ### 4. Run the app
 Use Expo Go on your phone to scan the QR code or run it on an emulator.
 ```bash
 npx expo start
+```
+### Preview
+![Weather App Screenshot](assets/privew.gif)
+
+### License
+This project is licensed under the MIT License. feel free to use, modify, and share it ✨
+
+### Author
+Made with 💙 by iVee
+
