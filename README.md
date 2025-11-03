@@ -42,7 +42,7 @@ Use Expo Go on your phone to scan the QR code or run it on an emulator.
 npx expo start
 ```
 ### Preview
-![Weather App Screenshot](assets/preview.gif))
+![Weather App Screenshot](assets/preview.gif)
 
 ### License
 This project is licensed under the MIT License. feel free to use, modify, and share it ✨
